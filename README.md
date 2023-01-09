@@ -2,7 +2,7 @@
 
 # Regressionsdiagnostik mit R
 
-Dies ist das Skript zur *Videoserie Mehrebenenregression mit R*, die für die Stelle Quantitatvie Methoden der [FernUni Hagen](https://www.fernuni-hagen.de/) entstanden ist.
+Dies ist das Skript zur *Videoserie Regressionsdiagnostik mit R*, die für die Stelle Quantitatvie Methoden der [FernUni Hagen](https://www.fernuni-hagen.de/) entstanden ist.
 
 Diese Videoserie besteht aus sechs aufeinander aufbauenden Teilen:
 
