@@ -1,0 +1,25 @@
+---
+title: "Dr. Uwe Remer"
+about:
+  template: jolla
+  image: ./Grafiken/uweremer.jpg
+  links:
+    - icon: bank
+      text: Homepage
+      href: https://www.sowi.uni-stuttgart.de/institut/team/Remer     
+    - icon: github
+      text: github
+      href: https://github.com/uweremer/mreg
+    - icon: mastodon
+      text: Mastodon
+      href: https://fediscience.org/@uweremer
+---
+
+Institut für Sozialwissenschaften<br>
+Computational Social Science (CSS-Lab)<br> 
+Universität Stuttgart<br> 
+Seidenstraße 36<br> 
+70174 Stuttgart<br> 
+Deutschland<br> 
++49 711 685-83548<br> 
+[uwe.remer\@sowi.uni-stuttgart.de](mailto:uwe.remer@sowi.uni-stuttgart.de)

@@ -1,0 +1,199 @@
+---
+title: "Datenschutzerklärung"
+---
+
+Auf dieser Seite erhalten Sie über Art, Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten dieser Webseite.
+
+Es wird keine Verantwortung für die Inhalte oder für die Privacy Policies von externen Ressourcen übernommen.
+
+# I. Name und Anschrift des Verantwortlichen
+
+Der Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedsstaaten der EU sowie sonstiger datenschutzrechtlicher Bestimmungen ist:
+
+Dr. Uwe Remer<br> Institut für Sozialwissenschaften<br> Universität Stuttgart<br> Seidenstraße 36<br> 70174 Stuttgart<br> Deutschland<br> +49 711 685-83548<br> [uwe.remer\@sowi.uni-stuttgart.de](mailto:uwe.remer@sowi.uni-stuttgart.de)
+
+# II. Allgemeines zur Datenverarbeitung
+
+Der im Impressum genannte Betreiber der Webseite erhebt keinerlei personenbezogene Daten von Besuchern der Webseite.
+
+# III. Bereitstellung der Website und Erstellung von Logfiles
+
+Der Hoster der Webseite erhebt in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
+
+IP-Adresse, die Adresse der vorher besuchten Website (Referer Anfrage-Header), Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich Mean Time, Inhalt der Anforderung, HTTP-Statuscode, übertragene Datenmenge, Website, von der die Anforderung kommt und Informationen zu Browser und Betriebssystem.
+
+Das ist erforderlich, um unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO.
+
+Es erfolgt kein Tracking und wir haben auf diese Daten keinen direkten Zugriff, sondern erhalten lediglich eine anonymisierte, statistische Zusammenfassung. Diese beinhaltet die Adresse der vorher besuchten Seite, die Häufigkeit der jeweils aufgerufenen Seiten und die Anzahl eindeutiger Besucher. Diese Daten führen wir nicht mit anderen Daten zusammen.
+
+Wir setzen für die Zurverfügungstellung unserer Website folgenden Hoster ein:
+
+GitHub Inc.<br> 88 Colin P Kelly Jr St<br> San Francisco, CA 94107<br> United States<br>
+
+Dieser ist Empfänger Ihrer personenbezogenen Daten. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO, selbst keinen Server in unseren Räumlichkeiten vorhalten zu müssen. Serverstandort ist USA.
+
+Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber GitHub finden Sie unter: <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement#github-pages" class="external">https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement#github-pages</a>
+
+Sie haben das Recht der Verarbeitung zu widersprechen. Ob der Widerspruch erfolgreich ist, ist im Rahmen einer Interessenabwägung zu ermitteln.
+
+Die Daten werden gelöscht, sobald der Zweck der Verarbeitung entfällt.
+
+Die Verarbeitung der unter diesem Abschnitt angegebenen Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Die Funktionsfähigkeit der Website ist ohne die Verarbeitung nicht gewährleistet.
+
+GitHub hat Compliance-Maßnahmen für internationale Datenübermittlungen umgesetzt. Diese gelten für alle weltweiten Aktivitäten, bei denen GitHub personenbezogene Daten von natürlichen Personen in der EU verarbeitet. Diese Maßnahmen basieren auf den EU-Standardvertragsklauseln (SCCs). Weitere Informationen finden Sie unter: <a href="https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1–the-standard-contractual-clauses-processors" class="external">https://docs.github.com/en/free-pro-team\@latest/github/site-policy/github-data-protection-addendum#attachment-1--the-standard-contractual-clauses-processors</a>
+
+# IV. Verwendung von Cookies
+
+## 1. Beschreibung und Umfang der Datenverarbeitung
+
+Die Webseite nutzt keine zustimmungspflichtigen Cookies, jedoch einen essentielln Session-Cookie, der durch das VG-Wort Zählpixel gesetzt wird.
+
+Verantwortlich für diesen Cookie ist die VG Wort:
+
+Verwertungsgesellschaft WORT (VG WORT)<br> Rechtsfähiger Verein kraft Verleihung<br> Untere Weidenstraße 5<br> 81543 München<br>
+
+Beim Aufruf der Webseite wird das Zählpixel geladen und ein Cookie gesetzt. Durch diesen wird die Zahl der "Visits" ermittelt. Die VG-Wort führt dazu aus:
+
+> "Ein Visit definiert sich durch alle Zugriffe eines Nutzers während einer Browsersitzung auf den mit einer Zählmarke versehenen Text. \[...\] Die IP Adressen werden vor dem Eingang in den Zählserver um das letzte Oktet verkürzt, so dass keine exakte Rückverfolgung des Aufrufes zu einem bestimmten Nutzer mehr möglich ist. Danach werden die Geodaten ausgewertet, um das Land aus dem der Abruf kommt zu ermitteln (nur Zugriffe aus Deutschland sind ausschüttungsrelevant!). Dann wird die IP Adresse"Einweg" verschlüsselt und nur das Ergebnis der Verschlüsselung wird gespeichert. Vollständige IP Adressen werden also nicht verwendet und IP Adressen werden in unverschlüsselter Form nicht gespeichert."
+
+Personenbezogene Daten werden also nicht erfasst.
+
+## 2. Rechtsgrundlage für die Datenverarbeitung
+
+Rechtsgrundlage für die Datenverarbeitung ist ein berechtigtes Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. b, e und f DSGVO.
+
+## 3. Zweck der Datenverarbeitung
+
+Der VG-Wort Zählpixel-Cookie ist ist ein notwendiger essentieller Cookie, der der Erfüllung rechtlicher und vertraglicher Pflichten dient, nämlich der Feststellung der Kopierwahrscheinlichkeit eines Textes als Grundlage für der Ermittlung des Anspruchs auf Autorenvergütung.
+
+## 4. Dauer der Speicherung
+
+Der Session Cookie wird nur temporär gesetzt und nach Ende einer Brwosersitzung (Schließen des Browsers) gelöscht.
+
+## 5. Widerspruchs- und Beseitigungsmöglichkeit
+
+Besucher der Seite können die Nutzung von Cookies verhindern, indem Sie das Setzen von Cookies durch entsprechende Einstellungen im Webbrowser blockieren. Außerdem können Besucher der Seite zu jedem Zeitpunkt bereits gesetzte Cookies manuell über die Brwosereinstellungen löschen.
+
+# V. E-Mail-Kontakt
+
+## 1. Beschreibung und Umfang der Datenverarbeitung
+
+Die Kontaktaufnahme ist über die bereitgestellte E-Mail-Adresse möglich. In diesem Fall werden die mit der E-Mail übermittelten personenbezogenen Daten des Nutzers gespeichert. Es erfolgt in diesem Zusammenhang keine Weitergabe der Daten an Dritte. Die Daten werden ausschließlich für die Verarbeitung der Konversation verwendet.
+
+## 2. Rechtsgrundlage für die Datenverarbeitung
+
+Rechtsgrundlage für die Verarbeitung der Daten, die im Zuge einer übersendung einer E-Mail übermittelt werden, ist Art. 6 Abs. 1 lit. f DSGVO.
+
+## 3. Zweck der Datenverarbeitung
+
+Im Falle einer Kontaktaufnahme per E-Mail liegt eben darin das erforderliche berechtigte Interesse an der Verarbeitung der Daten.
+
+## 4. Dauer der Speicherung
+
+Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Für die personenbezogenen Daten die per E-Mail übersandt wurden, ist dies dann der Fall, wenn die jeweilige Konversation mit dem Nutzer beendet ist. Beendet ist die Konversation dann, wenn sich aus den Umständen entnehmen lässt, dass der betroffene Sachverhalt abschließend geklärt ist.
+
+## 5. Widerspruchs- und Beseitigungsmöglichkeit
+
+Nimmt der Nutzer per E-Mail Kontakt mit uns auf, so kann er auf dem selben Weg der Speicherung seiner personenbezogenen Daten jederzeit widersprechen. In einem solchen Fall kann die Konversation nicht fortgeführt werden. Alle personenbezogenen Daten, die im Zuge der Kontaktaufnahme gespeichert wurden, werden in diesem Fall gelöscht.
+
+# VI. Rechte der betroffenen Person
+
+Werden personenbezogene Daten von Ihnen verarbeitet, sind Sie Betroffener i.S.d. DSGVO und es stehen Ihnen folgende Rechte gegenüber dem Verantwortlichen zu:
+
+## 1. Auskunftsrecht
+
+Sie können von dem Verantwortlichen eine Bestätigung darüber verlangen, ob personenbezogene Daten, die Sie betreffen, von uns verarbeitet werden. Liegt eine solche Verarbeitung vor, können Sie von dem Verantwortlichen über folgende Informationen Auskunft verlangen:
+
+-   die Zwecke, zu denen die personenbezogenen Daten verarbeitet werden;
+-   die Kategorien von personenbezogenen Daten, welche verarbeitet werden;
+-   die Empfänger bzw. die Kategorien von Empfängern, gegenüber denen die Sie betreffenden personenbezogenen Daten offengelegt wurden oder noch offengelegt werden;
+-   die geplante Dauer der Speicherung der Sie betreffenden personenbezogenen Daten oder, falls konkrete Angaben hierzu nicht möglich sind, Kriterien für die Festlegung der Speicherdauer;
+-   das Bestehen eines Rechts auf Berichtigung oder Löschung der Sie betreffenden personenbezogenen Daten, eines Rechts auf Einschränkung der Verarbeitung durch den Verantwortlichen oder eines Widerspruchsrechts gegen diese Verarbeitung;
+-   das Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde;
+-   alle verfügbaren Informationen über die Herkunft der Daten, wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben werden;
+-   das Bestehen einer automatisierten Entscheidungsfindung einschließlich Profiling gemäß Art. 22 Abs. 1 und 4 DSGVO und - zumindest in diesen Fällen - aussagekräftige Informationen über die involvierte Logik sowie die Tragweite und die angestrebten Auswirkungen einer derartigen Verarbeitung für die betroffene Person.
+
+Ihnen steht das Recht zu, Auskunft darüber zu verlangen, ob die Sie betreffenden personenbezogenen Daten in ein Drittland oder an eine internationale Organisation übermittelt werden. In diesem Zusammenhang können Sie verlangen, über die geeigneten Garantien gem. Art. 46 DSGVO im Zusammenhang mit der Übermittlung unterrichtet zu werden.
+
+Dieses Auskunftsrecht kann insoweit beschränkt werden, als es voraussichtlich die Verwirklichung der Forschungs- oder Statistikzwecke unmöglich macht oder ernsthaft beeinträchtigt und die Beschränkung für die Erfüllung der Forschungs- oder Statistikzwecke notwendig ist.
+
+## 2. Recht auf Berichtigung
+
+Sie haben ein Recht auf Berichtigung und/oder Vervollständigung gegenüber dem Verantwortlichen, sofern die verarbeiteten personenbezogenen Daten, die Sie betreffen, unrichtig oder unvollständig sind. Der Verantwortliche hat die Berichtigung unverzüglich vorzunehmen.
+
+Ihr Recht auf Berichtigung kann insoweit beschränkt werden, als es voraussichtlich die Verwirklichung der Forschungs- oder Statistikzwecke unmöglich macht oder ernsthaft beeinträchtigt und die Beschränkung für die Erfüllung der Forschungs- oder Statistikzwecke notwendig ist.
+
+## 3. Recht auf Einschränkung der Verarbeitung
+
+Unter den folgenden Voraussetzungen können Sie die Einschränkung der Verarbeitung der Sie betreffenden personenbezogenen Daten verlangen:
+
+-   wenn Sie die Richtigkeit der Sie betreffenden personenbezogenen für eine Dauer bestreiten, die es dem Verantwortlichen ermöglicht, die Richtigkeit der personenbezogenen Daten zu überprüfen;
+-   die Verarbeitung unrechtmäßig ist und Sie die Löschung der personenbezogenen Daten ablehnen und stattdessen die Einschränkung der Nutzung der personenbezogenen Daten verlangen;
+-   der Verantwortliche die personenbezogenen Daten für die Zwecke der Verarbeitung nicht länger benötigt, Sie diese jedoch zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigen, oder
+-   wenn Sie Widerspruch gegen die Verarbeitung gemäß Art. 21 Abs. 1 DSGVO eingelegt haben und noch nicht feststeht, ob die berechtigten Gründe des Verantwortlichen gegenüber Ihren Gründen überwiegen.
+
+Wurde die Verarbeitung der Sie betreffenden personenbezogenen Daten eingeschränkt, dürfen diese Daten - von ihrer Speicherung abgesehen - nur mit Ihrer Einwilligung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Union oder eines Mitgliedstaates verarbeitet werden.
+
+Wurde die Einschränkung der Verarbeitung nach den o.g. Voraussetzungen eingeschränkt, werden Sie von dem Verantwortlichen unterrichtet bevor die Einschränkung aufgehoben wird.
+
+Ihr Recht auf Einschränkung der Verarbeitung kann insoweit beschränkt werden, als es voraussichtlich die Verwirklichung der Forschungs- oder Statistikzwecke unmöglich macht oder ernsthaft beeinträchtigt und die Beschränkung für die Erfüllung der Forschungs- oder Statistikzwecke notwendig ist.
+
+## 4. Recht auf Löschung
+
+### a) Löschungspflicht
+
+Sie können von dem Verantwortlichen verlangen, dass die Sie betreffenden personenbezogenen Daten unverzüglich gelöscht werden, und der Verantwortliche ist verpflichtet, diese Daten unverzüglich zu löschen, sofern einer der folgenden Gründe zutrifft:
+
+-   Die Sie betreffenden personenbezogenen Daten sind für die Zwecke, für die sie erhoben oder auf sonstige Weise verarbeitet wurden, nicht mehr notwendig.
+-   Sie widerrufen Ihre Einwilligung, auf die sich die Verarbeitung gem. Art. 6 Abs. 1 lit. a oder Art. 9 Abs. 2 lit. a DSGVO stützte, und es fehlt an einer anderweitigen Rechtsgrundlage für die Verarbeitung.
+-   Sie legen gem. Art. 21 Abs. 1 DSGVO Widerspruch gegen die Verarbeitung ein und es liegen keine vorrangigen berechtigten Gründe für die Verarbeitung vor, oder Sie legen gem. Art. 21 Abs. 2 DSGVO Widerspruch gegen die Verarbeitung ein.
+-   Die Sie betreffenden personenbezogenen Daten wurden unrechtmäßig verarbeitet.
+-   Die Löschung der Sie betreffenden personenbezogenen Daten ist zur Erfüllung einer rechtlichen Verpflichtung nach dem Unionsrecht oder dem Recht der Mitgliedstaaten erforderlich, dem der Verantwortliche unterliegt.
+-   Die Sie betreffenden personenbezogenen Daten wurden in Bezug auf angebotene Dienste der Informationsgesellschaft gemäß Art. 8 Abs. 1 DSGVO erhoben.
+
+### b) Information an Dritte
+
+Hat der Verantwortliche die Sie betreffenden personenbezogenen Daten öffentlich gemacht und ist er gem. Art. 17 Abs. 1 DSGVO zu deren Löschung verpflichtet, so trifft er unter Berücksichtigung der verfügbaren Technologie und der Implementierungskosten angemessene Maßnahmen, auch technischer Art, um für die Datenverarbeitung Verantwortliche, die die personenbezogenen Daten verarbeiten, darüber zu informieren, dass Sie als betroffene Person von ihnen die Löschung aller Links zu diesen personenbezogenen Daten oder von Kopien oder Replikationen dieser personenbezogenen Daten verlangt haben.
+
+### c) Ausnahmen
+
+Das Recht auf Löschung besteht nicht, soweit die Verarbeitung erforderlich ist
+
+-   zur Ausübung des Rechts auf freie Meinungsäußerung und Information;
+-   zur Erfüllung einer rechtlichen Verpflichtung, die die Verarbeitung nach dem Recht der Union oder der Mitgliedstaaten, dem der Verantwortliche unterliegt, erfordert, oder zur Wahrnehmung einer Aufgabe, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, die dem Verantwortlichen übertragen wurde;
+-   aus Gründen des öffentlichen Interesses im Bereich der öffentlichen Gesundheit gemäß Art. 9 Abs. 2 lit. h und i sowie Art. 9 Abs. 3 DSGVO;
+-   für im öffentlichen Interesse liegende Archivzwecke, wissenschaftliche oder historische Forschungszwecke oder für statistische Zwecke gem. Art. 89 Abs. 1 DSGVO, soweit das unter Abschnitt a) genannte Recht voraussichtlich die Verwirklichung der Ziele dieser Verarbeitung unmöglich macht oder ernsthaft beeinträchtigt, oder
+-   zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
+
+## 5. Recht auf Unterrichtung
+
+Haben Sie das Recht auf Berichtigung, Löschung oder Einschränkung der Verarbeitung gegenüber dem Verantwortlichen geltend gemacht, ist dieser verpflichtet, allen Empfängern, denen die Sie betreffenden personenbezogenen Daten offengelegt wurden, diese Berichtigung oder Löschung der Daten oder Einschränkung der Verarbeitung mitzuteilen, es sei denn, dies erweist sich als unmöglich oder ist mit einem unverhältnismäßigen Aufwand verbunden. Ihnen steht gegenüber dem Verantwortlichen das Recht zu, über diese Empfänger unterrichtet zu werden.
+
+## 6. Recht auf Datenübertragbarkeit
+
+Sie haben das Recht, die Sie betreffenden personenbezogenen Daten, die Sie dem Verantwortlichen bereitgestellt haben, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten. Außerdem haben Sie das Recht diese Daten einem anderen Verantwortlichen ohne Behinderung durch den Verantwortlichen, dem die personenbezogenen Daten bereitgestellt wurden, zu übermitteln, sofern
+
+-   die Verarbeitung auf einer Einwilligung gem. Art. 6 Abs. 1 lit. a DSGVO oder Art. 9 Abs. 2 lit. a DSGVO oder auf einem Vertrag gem. Art. 6 Abs. 1 lit. b DSGVO beruht und
+-   die Verarbeitung mithilfe automatisierter Verfahren erfolgt.
+
+In Ausübung dieses Rechts haben Sie ferner das Recht, zu erwirken, dass die Sie betreffenden personenbezogenen Daten direkt von einem Verantwortlichen einem anderen Verantwortlichen übermittelt werden, soweit dies technisch machbar ist. Freiheiten und Rechte anderer Personen dürfen hierdurch nicht beeinträchtigt werden.
+
+## 7. Widerspruchsrecht
+
+Sie haben das Recht, aus Gründen, die sich aus ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten, die aufgrund von Art. 6 Abs. 1 lit. e oder f DSGVO erfolgt, Widerspruch einzulegen.
+
+Der Verantwortliche verarbeitet die Sie betreffenden personenbezogenen Daten nicht mehr, es sei denn, er kann zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
+
+Sie haben die Möglichkeit, im Zusammenhang mit der Nutzung von Diensten der Informationsgesellschaft - ungeachtet der Richtlinie 2002/58/EG - Ihr Widerspruchsrecht mittels automatisierter Verfahren auszuüben, bei denen technische Spezifikationen verwendet werden.
+
+Sie haben auch das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, bei der Verarbeitung Sie betreffender personenbezogener Daten, die zu wissenschaftlichen oder historischen Forschungszwecken oder zu statistischen Zwecken gem. Art. 89 Abs. 1 DSGVO erfolgt, dieser zu widersprechen. Ihr Widerspruchsrecht kann insoweit beschränkt werden, als es voraussichtlich die Verwirklichung der Forschungs- oder Statistikzwecke unmöglich macht oder ernsthaft beeinträchtigt und die Beschränkung für die Erfüllung der Forschungs- oder Statistikzwecke notwendig ist.
+
+## 8. Recht auf Widerruf der datenschutzrechtlichen Einwilligungserklärung
+
+Sie haben das Recht, Ihre datenschutzrechtliche Einwilligungserklärung jederzeit zu widerrufen. Durch den Widerruf der Einwilligung wird die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht berührt.
+
+## 10. Recht auf Beschwerde bei einer Aufsichtsbehörde
+
+Unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs steht Ihnen das Recht auf Beschwerde bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat Ihres Aufenthaltsorts, Ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes, zu, wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden personenbezogenen Daten gegen die DSGVO verstößt.
+
+Die Aufsichtsbehörde, bei der die Beschwerde eingereicht wurde, unterrichtet den Beschwerdeführer über den Stand und die Ergebnisse der Beschwerde einschließlich der Möglichkeit eines gerichtlichen Rechtsbehelfs nach Art. 78 DSGVO.

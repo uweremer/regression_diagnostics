@@ -1,0 +1,84 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "!Draft/"
+
+website:
+  title: "Mehrebenenregression mit R"
+  description: "6-teilige Videoreihe zum Einstieg in die Mehrebenenregression mit R"
+  #cookie-consent: true
+  twitter-card:
+    title: "Mehrebenenregression mit R"
+    description: "6-teilige Videoreihe zum Einstieg in die Mehrebenenregression mit R"
+    image: https://uweremer.github.io/mreg//Grafiken/varianten.png
+    creator: "@uweremerbollow"
+  open-graph:
+    title: "Mehrebenenregression mit R"
+    description: "6-teilige Videoreihe zum Einstieg in die Mehrebenenregression mit R"
+    image: https://uweremer.github.io/mreg/Grafiken/varianten.png
+    locale: de_DE
+    site-name: "Mehrebenenregression mit R"
+  navbar:
+    background: primary
+    left:
+      - text: "Startseite"
+        file: index.qmd
+      - text: "Skript"
+        menu:
+          - mreg1.qmd
+          - mreg2.qmd   
+          - mreg3.qmd
+          - mreg4.qmd   
+          - mreg5.qmd
+          - mreg6.qmd             
+      - text: "Ressourcen"
+        file: ressourcen.qmd  
+      - text: "Kontakt"
+        file: about.qmd          
+
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - mreg1.qmd
+      - mreg2.qmd
+      - mreg3.qmd
+      - mreg4.qmd   
+      - mreg5.qmd
+      - mreg6.qmd  
+    tools:
+      - icon: bank
+        href: https://www.sowi.uni-stuttgart.de/institut/team/Remer
+      - icon: github
+        href: https://github.com/uweremer/mreg
+      - icon: mastodon 
+        href: https://fediscience.org/@uweremer
+  page-footer: 
+    left: 
+      "&#169; 2022, Uwe Remer" 
+    right: 
+      - text: Datenschutz
+        file: datenschutz.qmd
+      - text: Impressum 
+        file: about.qmd
+  repo-url: https://github.com/uweremer/mreg
+  repo-branch: website
+
+
+
+format:
+  html:
+    lang: de-DE
+    theme: sandstone
+    css: styles.css
+    toc: true
+    link-external-newwindow: true
+    link-external-filter: ^(?:http:|https:)\/\.github\.io\/uweremer
+    author-meta: "Dr. Uwe Remer"
+    affiliation-title: "Universität Stutgart, CSS-Lab"
+    affiliation: "Universität Stutgart, CSS-Lab"
+
+editor: visual
+
