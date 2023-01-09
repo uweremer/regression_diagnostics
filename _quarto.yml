@@ -6,20 +6,20 @@ project:
     - "!Draft/"
 
 website:
-  title: "Mehrebenenregression mit R"
-  description: "6-teilige Videoreihe zum Einstieg in die Mehrebenenregression mit R"
+  title: "Regressionsdiagnostik mit R"
+  description: "6-teilige Videoreihe zur Regressionsdiagnostik mit R"
   #cookie-consent: true
   twitter-card:
-    title: "Mehrebenenregression mit R"
-    description: "6-teilige Videoreihe zum Einstieg in die Mehrebenenregression mit R"
+    title: "Regressionsdiagnostik mit R"
+    description: "6-teilige Videoreihe zur Regressionsdiagnostik mit R"
     image: https://uweremer.github.io/mreg//Grafiken/varianten.png
     creator: "@uweremerbollow"
   open-graph:
     title: "Mehrebenenregression mit R"
-    description: "6-teilige Videoreihe zum Einstieg in die Mehrebenenregression mit R"
+    description: "6-teilige Videoreihe zur Regressionsdiagnostik mit R"
     image: https://uweremer.github.io/mreg/Grafiken/varianten.png
     locale: de_DE
-    site-name: "Mehrebenenregression mit R"
+    site-name: "Regressionsdiagnostik mit R"
   navbar:
     background: primary
     left:
@@ -27,12 +27,12 @@ website:
         file: index.qmd
       - text: "Skript"
         menu:
-          - mreg1.qmd
-          - mreg2.qmd   
-          - mreg3.qmd
-          - mreg4.qmd   
-          - mreg5.qmd
-          - mreg6.qmd             
+          - regression_diagnostics1.qmd
+          - regression_diagnostics2.qmd   
+          - regression_diagnostics3.qmd
+          - regression_diagnostics4.qmd   
+          - regression_diagnostics5.qmd
+          - regression_diagnostics6.qmd             
       - text: "Ressourcen"
         file: ressourcen.qmd  
       - text: "Kontakt"
@@ -42,12 +42,12 @@ website:
     style: "floating"
     search: true
     contents:
-      - mreg1.qmd
-      - mreg2.qmd
-      - mreg3.qmd
-      - mreg4.qmd   
-      - mreg5.qmd
-      - mreg6.qmd  
+      - regression_diagnostics1.qmd
+      - regression_diagnostics2.qmd
+      - regression_diagnostics3.qmd
+      - regression_diagnostics4.qmd   
+      - regression_diagnostics5.qmd
+      - regression_diagnostics6.qmd  
     tools:
       - icon: bank
         href: https://www.sowi.uni-stuttgart.de/institut/team/Remer

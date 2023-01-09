@@ -9,11 +9,7 @@ title: "Ressourcen"
 
 # RScript Dateien
 
-
-- <a href="./Ressourcen/RScript_mreg1.R" download><i class="bi bi-file-earmark-code"></i> RScript_mreg1.R</a>
-- <a href="./Ressourcen/RScript_mreg2a.R" download><i class="bi bi-file-earmark-code"></i> RScript_mreg2a.R</a>
-- <a href="./Ressourcen/RScript_mreg2b.R" download><i class="bi bi-file-earmark-code"></i> RScript_mreg2b.R</a>
-- <a href="./Ressourcen/RScript_mreg3.R" download><i class="bi bi-file-earmark-code"></i> RScript_mreg3.R</a>
-- <a href="./Ressourcen/RScript_mreg4.R" download><i class="bi bi-file-earmark-code"></i> RScript_mreg4.R</a>
-- <a href="./Ressourcen/RScript_mreg5.R" download><i class="bi bi-file-earmark-code"></i> RScript_mreg5.R</a>
-- <a href="./Ressourcen/RScript_mreg5.R" download><i class="bi bi-file-earmark-code"></i> RScript_mreg6.R</a>
+- <a href="./Ressourcen/V3_Rscript.R" download><i class="bi bi-file-earmark-code"></i> V3_Rscript.R</a>
+- <a href="./Ressourcen/V4_Rscript.R" download><i class="bi bi-file-earmark-code"></i> V4_Rscript.R</a>
+- <a href="./Ressourcen/V5_Rscript.R" download><i class="bi bi-file-earmark-code"></i> V5_Rscript.R</a>
+- <a href="./Ressourcen/V6_Rscript.R" download><i class="bi bi-file-earmark-code"></i> V6_Rscript.R</a>

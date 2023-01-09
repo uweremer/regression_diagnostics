@@ -2,9 +2,11 @@
 title: "Regressionsdiagnostik mit R"
 author:  "Dr. Uwe Remer"
 subtitle: "Eine einfache Einführung"
-date: 2022-11-03
+date: 2023-01-09
 affiliation: "Universität Stutgart, CSS-Lab"
 ---
+
+> WORK IN PROGRESS!
 
 # Regressionsdiagnostik mit R
 

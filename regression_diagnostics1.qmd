@@ -1,0 +1,100 @@
+---
+title: "regression_diagnostics"
+---
+
+# Manuskript Video 1 - Grundlagen
+
+Hallo und herzlich Willkommen zu dieser Videoserie zum Thema Regressionsdiagnostik mit R
+Diese Lernsequenz umfasst sechs kurze Videos, in denen ich Ihnen zeigen werde,
+	Was eine Regressionsdiagnostik ist, und warum sie so wichtig ist
+	wie man sie praktisch in R umsetzt 
+	und wie man die Ergebnisse der Regressionsidagnostik interpretiert und damit erkennen kann, wann ein Regressionsmodell fehlspezifiziert ist. 
+Dazu schauen wir uns in diesem ersten Video noch einmal kurz die Grundlagen der Regression und die Regressionsannahmen an. Aus diesen Grundlagen können wir ableiten, unter welchen Bedingungen die Regression eine korrekte Schätzung der gesuchten Parameter liefert. 
+Was macht eine Regression?
+Die Regression ist ein statistisches Verfahren zur Prüfung von Hypothesen über die Stärke und Richtung des Zusammenhanges zwischen einer abhängigen Variable y und mindestens einer, in der Regel mehrerer unabhängiger x Variablen x bzw. x_1 bis x_n.
+Ganz allgemein kann man sagen, y hängt n irgendeiner Form von x ab. 
+y=f(x)
+Im einfachsten Fall lässt sich der Zusammenhang zwischen y und x als linearer Funktion beschreiben.
+
+ Für eine solche lineare Beschreibung benötigen wir nur zwei Parameter:
+	Die Konstante (im englischen Intercept), die in Gleichungen oft als alpha bezeichnet wird 
+	Und zum anderen den Steigungskoeffizienten beta, den wir auch Regressionskoeffizienten oder im englischen als Slope bezeichnen
+
+Die Regressionsgleichung lautet dann also:
+y=α+βx
+	Alpha gibt an, wo die Regressionsgerade die y-Achse schneidet 
+	und beta gibt an wie steil die Regressionsgerade ansteigt oder fällt.
+
+Da der Zusammenhang jedoch nicht deterministisch ist, sondern stochastisch ist und meist nicht alle Erklärungsfaktoren in das Modell mit einbezogen werden können, benötigen wir zusätzlich einen Fehlerterm u, damit die Gleichung aufgeht. 
+y=α+βx+u
+ohne den Fehlerterm schätzen wir mit der Regressionsgeraden also nur einen Vorhersagewert, der als y ̂ bezeichnet wird.
+y ̂=α+βx
+
+Betrachtet man nun nicht den Zusammenhang in der Grundgesamtheit, sondern nutzt eine Stichprobe um auf die Grundgesamtheit zu schließen, werden aus den griechischen Buchstaben in der Gleichung lateinische Buchstaben:
+y ̂=a+bx
+Auch hier gilt: Nicht alle beobachteten Werte von Y liegen auf der Regressionsgerade mit den Vorhersagewerten y ̂. 
+Es bleibt also eine Abweichung zwischen dem vorhergesagten Wert y ̂ und dem wahren Wert y. Diese Abweichung nennt man Residuum. In Gleichungen wird das Residuum teilweise r, teilweise aber auch als e oder Epsilon für Error dargestellt.
+y ̂=a+bx+e
+Setzt man die Formel ein und formt um sieht man, dass das Residuum nichts anderes ist als die Differenz zwischen y ̂ und y.
+y= y ̂+e 
+y- y ̂= e 
+Hier erklärt sich auch der Name der OLS Regression: OLS steht für ordinary least squares: Gesucht ist nämlich die Regressionsgerade, welche die geringsten Abweichungsquadrate aufweist. 
+∑▒〖(y-y ̂)〗^2 
+Denn je kleiner die Summe aller quadrierten Residuen ist - man könnte auch sagen, je kleiner die Summe der Abweichungsquadrate ist -, desto mehr Varianz kann das Regressionsmodell binden, und desto größer ist die Erklärungsleistung des Modells
+
+Fassen wir also nochmal zusammen:
+Die OLS Regression erlaubt es uns den Zusammenhang zwischen X und Y mithilfe der Regressionsgeraden und ihren Parametern a und b zu beschreiben. 
+Dabei hoffen wir, dass diese Regressionsgerade eine korrekte Schätzung also gültige Inferenz über die Populationsparameter alpha und beta liefert.
+Nur: hoffen ist das eine. Aber Woher will man denn wissen, dass a und b gültige Schätzungen für die wahren, aber unbekannten Populationsparameter Alpha und beta darstellen?
+
+Woher weiß man, dass die OLS Regressionsgerade tatsächlich die beste Schätzung liefert? 
+Die Antwort gibt die Regressionstheorie, genauer: das Gauß-Markov-Theorem, oder einfach der Satz von Gauß.
+Dieser sagt:
+Die Schätzung der Punktschätzer (der Koeffizienten a und b) ist dann gelungen, ihre Erwartungswerte folgende Eigenschaften aufweisen:
+
+- Unverzerrtheit  
+- Effizienz  
+- Konsistenz  
+Bei einer linearen Schätzung spricht man in diesem Fall von einer BLUE Schätzung, einer Best Linear Unbiased Estimation.
+Eine Schätzung ist unverzerrt, wenn bei einer sehr großen Anzahl an Schätzdurchläufen desselben Modells mit unterschiedlichen Stichproben (N gegen Unendlich) die Erwartungswerte der Punktschätzer a und b nicht vom Populationsparameter abweichen.
+Eine Schätzung ist effizient, wenn sie (für theoretisch unendlich viele SP) die geringst mögliche Streuung aufweist
+Eine Schätzung ist konsistent, wenn (bei unendlich vielen SP) mit zunehmendem Stichprobenumfang (Fälle pro SP, nicht Anzahl der SP)
+- die Verzerrung kleiner wird und  
+- die Streuung geringer wird  
+Trotzdem bleibt die Frage: Wie lässt sich überprüfen, ob der Satz von Gauß. Schließlich können wir nicht unendlich Stichproben ziehen um zu sehen, wie sich die Punktschätzer verteilen. Und auch der Populationsparamter ist unbekannt. 
+
+Es gibt eine Lösung: 
+Es lässt sich nämlich zeigen, dass der Satz von Gauß gilt, wenn bestimmte Bedingungen -- man könnte auch sagen bestimmte Modellannahmen erfüllt sind.
+Und dies lässt sich mit Hilfe der Residuen prüfen! Und diese Prüfung nennt sich Regressionsdiagnostik.
+
+Kommen wir also zunächst zu den Modellannahmen:
+Der OLS-Schätzer ist BLUE, ist also eine Best Linear Unbiased Estimation, wenn folgende Annahmen bezüglich der Residuen erfüllt sind:
+1. Varianz der Residuen muss über alle Beobachtungswerte von x konstant sein 
+Homoskedastizität liegt vor, wenn die Residuen, also der Fehler der Schätzung an allen Stellen der x-Variable eine ähnliche oder gleich große Streuung aufweisen.
+Heteroskedastizität ist dagegen ein Verstoß gegen die Regressionsannahme. Hier schwankt die Varianz der Residuen über die verschiedenen Beobachtungswerte von x. Liegt Heteroskedastizität vor, können Signifikanztests fehlerhaft sein.
+
+2. Der Erwartungswert der Residuen muss 0 (Null) sein
+Tatsächlich ist diese Annahme Modell-technisch immer erfüllt. Berechnet man das arithmetische Mittel der Residuen, muss dieses 0 sein. Wird die Regressionsgerade mittels OLS Verfahren bestimmt, weist die Gerade ja immer die Eigenschaft der kleinsten Abweichungsquadrate auf. 
+
+
+3. Residuen müssen unabhängig von x sein. 
+Diese Annahme besagt, dass die Residuen nicht mit den unabhängigen Variablen korreliert sein dürfen. Die Residuen dürfen beispielweise nicht mit steigenden Werten von x zunehmen. Es dürfen sich auch keine anderen Muster zeigen, wie z.B. ein u oder v-förmiger Zusammenhang der Residuen mit einer der unabhängigen Variablen. Ist dies dennoch der Fall ist das ein Anzeichen für eine Fehlspezifikation z.B. durch nicht-lineare Zusammenhänge oder durch fehlende Kontrollvariablen. 
+
+4. die Residuen dürfen nicht autokorreliert sein
+Diese Regressionsannahme ist nur bei Zeitreihen-Daten relevant. Autokorrelation heißt, dass die Residuen eines Zeitpunktes t1 eine Korrelation mit den Residuen von Zeitpunkten t-1 oder anderen vorherigen Beobachtungszeitpunkten aufweisen.
+
+5. Die Residuen müssen über alle Beobachtungswerte von x normalverteilt sein.
+Diese zusätzliche Annahme ist quasi eine Verschärfung der Annahme 1. Nicht nur dass die Varianz der Residuen konstant sein soll, sollen sie darüber hinaus an jedem Beobachtungswert von x der normalverteilt sein. Also vereinfacht dargestellt: Eine symmetrische Verteilung der Abweichungen mit viele kleine Abweichungen nah an der Regressionsgeraden aber einer immer geringer werdenden Anzahl an Abweichungen mit höheren Beträgen. 
+
+Werden alle fünf Modellannahmen erfüllt, kann man davon ausgehen, dass der Satz von Gauß erfüllt ist und wir eine BLUE-Schätzung, also die bestmögliche unverzerrte Schätzung erhalten haben und den Signifikanztests zu trauen ist. 
+
+
+Soviel bis hierhin. Wie diese Annahmen praktisch überprüft werden können und wie man mögliche Verstöße beheben kann, werden wir in den nachfolgenden Videos sehen.
+
+Im zweiten Video lernen wir einen ganz bestimmten Datensatz kennen. Das sogenannte Anscombe-Quartett – daran werden wir beispielhaft sehen, wie Verstöße gegen diese Annahmen aussehen können und warum die Regressionsdiagnostik so wichtig ist.
+Das dritte Video wird sich mit einigen vorbereitenden Schritten beschäftigen. Das ist zwar Teil der klassischen Regressionsdiagnostik. Aber: nur wenn die Variablen korrekt ausgewählt und vorbereitet werden, liefert die Regression gültige Schätzungen. Themen sind dabei unter anderem Skalenniveau, Fehlende Werte und Multikollinearität.
+Das vierte Video wird sich mit ungewöhnlichen Fällen beschäftigen und Frage nachgehen, unter welchen Bedingungen diese als Ausreißer ausgeschlossen werden können.  
+
+Die Videos fünf und sechs beschäftigen sich dann nochmal genauer mit den Modellannahmen aus dem Satz von Gauß, insbesondere mit nicht konstanter Fehlervarianz und mit korrelierten Residuen. 
+Hier wird es darum gehen, wie Fehlspezifikationen des Modells entdeckt werden können, die Folge von nicht linearen Zusammenhängen oder unberücksichtigter systematischer Varianz sind.
+
