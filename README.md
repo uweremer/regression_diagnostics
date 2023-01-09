@@ -1,7 +1,5 @@
 https://uweremer.github.io/regression_diagnostics/
 
-<img src="ttps://www.r-project.org/logo/Rlogo.svg" width=30% height=30%>
-
 # Regressionsdiagnostik mit R
 
 Dies ist das Skript zur *Videoserie Regressionsdiagnostik mit R*, die für die Stelle Quantitatvie Methoden der [FernUni Hagen](https://www.fernuni-hagen.de/) entstanden ist.
