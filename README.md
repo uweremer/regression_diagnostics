@@ -1,4 +1,8 @@
+https://uweremer.github.io/regression_diagnostics/
+
+<div style="width: 30%; height: 30%">
 ![](https://www.r-project.org/logo/Rlogo.svg)
+</div>
 
 # Regressionsdiagnostik mit R
 
